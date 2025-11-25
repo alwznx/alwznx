@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alwznx/alwznx/main/github-header-banner.png
-" alt="Banner" width="100%" />
+  <img src="https://github.com/alwznx/alwznx/blob/main/github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">Informatics Student • Exploring Tech • Future Developer</h3>
