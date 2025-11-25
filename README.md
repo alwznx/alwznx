@@ -39,9 +39,7 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ---
 
-<p align="center">
-  <img src="https://github.com/alwznx/alwznx/blob/output/snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 ## 🚀 Pinned Projects
@@ -81,11 +79,10 @@ Feel free to reach out or collaborate with me! 🚀
 
 ## 🎮 Play Game
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alwznx/alwznx/output/pacman.svg" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
