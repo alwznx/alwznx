@@ -44,7 +44,20 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ---
 
-## 🚀 Recommended Pinned Projects
+## 🚀 Pinned Projects
+<p align="left">
+
+🔹 <a href="https://github.com/alwznx/EduReflect"><b>EduReflect</b></a><br/>
+<sub>Learning behavior analytics tool built with JavaScript.</sub><br/><br/>
+
+🔹 <a href="https://github.com/alwznx/perpustakaan-digital"><b>Perpustakaan Digital</b></a><br/>
+<sub>Simple digital library web app using JavaScript.</sub><br/><br/>
+
+🔹 <a href="https://github.com/alwznx/Project-PBO-Simple-JOKIGAME-Netbeans"><b>JOKIGAME Netbeans (Java OOP)</b></a><br/>
+<sub>Java OOP project created for PBO class using NetBeans.</sub><br/>
+
+</p>
+
 ---
 
 ## 🔗 Connect With Me
