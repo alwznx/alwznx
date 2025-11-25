@@ -43,7 +43,6 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react&hide_border=true" />
 </p>
 
-
 ---
 
 ## 🚀 Pinned Projects
