@@ -33,16 +33,14 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=alwznx&show_icons=true&theme=react&hide_border=true" />
-  <img height="160px" src="https://streak-stats.demolab.com?user=alwznx&theme=react&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=alwznx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwznx&theme=react&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
-
 ---
 
 ## 🚀 Pinned Projects
