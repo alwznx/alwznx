@@ -21,7 +21,7 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ### 🔹 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,laravel,py,tailwind,vercel,vue,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,laravel,py,tailwind,vue,cpp" />
 </p>
 
 ### 🔹 Tools & Environments
@@ -33,11 +33,14 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alwznx&show_icons=true&theme=react" />
+<p align="center">
+  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alwznx&show_icons=true&theme=react&hide_border=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=alwznx&theme=react&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alwznx&theme=react" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react" />
+<p align="center">
+  <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react&hide_border=true" />
+</p>
 
 ---
 
@@ -62,6 +65,8 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 <p align="left">
   <a href="mailto:tiow171205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/alwznx"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/alwznx"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/alwiconnects/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
@@ -73,4 +78,3 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ## ⚡ Let's Build Something Amazing!
 Feel free to reach out or collaborate with me! 🚀
-
