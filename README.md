@@ -33,18 +33,16 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=alwznx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwznx&theme=react&hide_border=true&background=0D1117" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alwznx&show_icons=true&theme=react" />
 
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alwznx&theme=react" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react" />
 
 ---
 
 ## 🚀 Pinned Projects
+
 <p align="left">
 
 🔹 <a href="https://github.com/alwznx/EduReflect"><b>EduReflect</b></a><br/>
