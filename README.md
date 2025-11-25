@@ -38,10 +38,13 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 </p>
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/alwznx/alwznx/output/snake.svg" />
 </p>
+
 ---
+
 ## 🚀 Pinned Projects
 
 <p align="left">
