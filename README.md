@@ -1,6 +1,8 @@
-<!-- Futuristic Professional GitHub Profile - alwznx -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alwznx/alwznx/main/github-header-banner.png
+" alt="Banner" width="100%" />
+</p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00eaff;">Alwi</span></h1>
 <h3 align="center">Informatics Student • Exploring Tech • Future Developer</h3>
 
 <p align="center">
