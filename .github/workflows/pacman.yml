@@ -1,31 +1,34 @@
-name: Generate pacman animation
+name: Pacman eating contributions graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-  push:
-    branches:
-    - main
-
 jobs:
-  generate:
+  build:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "alwznx"
+          color: yellow
 
+      - name: Move output file
+        run: |
+          mkdir -p dist
+          mv pacman.svg dist/pacman.svg || true
+          mv pacman.gif dist/pacman.gif || true
 
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
