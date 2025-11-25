@@ -82,9 +82,6 @@ Feel free to reach out or collaborate with me! 🚀
 
 ---
 
-## 🟡 Pac-Man Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/alwznx/alwznx/output/pacman.svg" />
 </p>
-
----
