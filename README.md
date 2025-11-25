@@ -34,15 +34,16 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=alwznx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwznx&theme=react&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwznx&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
 ---
 
+<p align="center">
+  <img src="https://github.com/alwznx/alwznx/blob/output/snake.svg" />
+</p>
+
+---
 ## 🚀 Pinned Projects
 
 <p align="left">
@@ -82,10 +83,9 @@ Feel free to reach out or collaborate with me! 🚀
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alwznx/alwznx/output/pacman.svg" />
+</p>
+
 
 ---
