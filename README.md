@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=22&center=true&vCenter=true&width=600&lines=Informatics+Student;Web+Developer+Learner;Always+Exploring+New+Technologies;Future+Fullstack+Engineer" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alwznx&label=Profile%20views&color=0e75b6&style=flat" alt="alwznx" /> </p>
+
 ---
 
 ## 🧬 About Me
@@ -33,6 +35,8 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 ---
 
 ## 📊 GitHub Statistics
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwznx&show_icons=true&locale=en&layout=compact" alt="alwznx" /></p>
 <p align="center">
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwznx&theme=react&hide_border=true&background=0D1117" />
 </p>
