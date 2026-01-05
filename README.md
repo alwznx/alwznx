@@ -13,7 +13,7 @@
 ---
 
 ## 🧬 About Me
-I'm an **Informatics student** passionate about **exploring technologies** and building cool things on the web.  
+I'm an **Information Technology Education Student** passionate about **exploring technologies** and building cool things on the web.  
 Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Programming**.
 
 💡 *“Learn. Build. Iterate. Evolve.”*
@@ -52,6 +52,9 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 ## 🚀 Pinned Projects
 
 <p align="left">
+
+🔹 <a href="https://github.com/alwznx/portofolio-alwi"><b>My Portofolio</b></a><br/>
+<sub>My personal portofolio.</sub><br/><br/>
 
 🔹 <a href="https://github.com/alwznx/EduReflect"><b>EduReflect</b></a><br/>
 <sub>Learning behavior analytics tool built with JavaScript.</sub><br/><br/>
