@@ -36,7 +36,6 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ## 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwznx&show_icons=true&locale=en&layout=compact" alt="alwznx" /></p>
 <p align="center">
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwznx&theme=react&hide_border=true&background=0D1117" />
 </p>
@@ -88,9 +87,3 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 Feel free to reach out or collaborate with me! 🚀
 
 ---
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwznx/alwznx/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwznx/alwznx/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alwznx/alwznx/output/pacman-contribution-graph.svg">
-</picture>
