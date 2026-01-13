@@ -61,8 +61,8 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 🔹 <a href="https://github.com/alwznx/perpustakaan-digital"><b>Perpustakaan Digital</b></a><br/>
 <sub>Simple digital library web app using JavaScript.</sub><br/><br/>
 
-🔹 <a href="https://github.com/alwznx/Project-PBO-Simple-JOKIGAME-Netbeans"><b>JOKIGAME Netbeans (Java OOP)</b></a><br/>
-<sub>Java OOP project created for PBO class using NetBeans.</sub><br/>
+🔹 <a href="https://github.com/alwznx/a2-dry.git"><b>Aplikasi Laundry</b></a><br/>
+<sub>A modern, offline-first Laundry POS app built with Flutter & Hive.</sub><br/>
 
 </p>
 
