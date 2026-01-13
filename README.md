@@ -37,9 +37,8 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160px" src="https://raw.githubusercontent.com/alwznx/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=alwznx&show_icons=true&theme=radical" />
 </p>
-![](https://raw.githubusercontent.com/alwznx/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 
