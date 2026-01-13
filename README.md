@@ -24,7 +24,7 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 
 ### 🔹 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,,flutter,dart,java,php,laravel,py,tailwind,vue,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,java,php,laravel,py,tailwind,vue,cpp" />
 </p>
 
 ### 🔹 Tools & Environments
