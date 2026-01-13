@@ -5,7 +5,7 @@
 <h3 align="center">Information Technology Education Student • Exploring Tech • Future Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=22&center=true&vCenter=true&width=600&lines=Informatics+Student;Web+Developer+Learner;Always+Exploring+New+Technologies;Future+Fullstack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=22&center=true&vCenter=true&width=600&lines=Information+Technology+Education+Student;Web+Developer+Learner;Always+Exploring+New+Technologies;Future+Fullstack+Engineer" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwznx&label=Profile%20views&color=0e75b6&style=flat" alt="alwznx" /> </p>
@@ -14,7 +14,7 @@
 
 ## 🧬 About Me
 I'm an **Information Technology Education Student** passionate about **exploring technologies** and building cool things on the web.  
-Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Programming**.
+Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, and Graphic/Visual Programming**.
 
 💡 *“Learn. Build. Iterate. Evolve.”*
 
@@ -24,12 +24,12 @@ Currently leveling up my skills in **Front-End, Back-End, and Graphic/Visual Pro
 
 ### 🔹 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,laravel,py,tailwind,vue,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,,flutter,dart,java,php,laravel,py,tailwind,vue,cpp" />
 </p>
 
 ### 🔹 Tools & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,nodejs,mysql,figma" />
 </p>
 
 ---
