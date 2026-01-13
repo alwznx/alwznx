@@ -37,8 +37,9 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwznx&theme=react&hide_border=true&background=0D1117" />
+  <img height="160px" src="https://raw.githubusercontent.com/alwznx/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </p>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 
