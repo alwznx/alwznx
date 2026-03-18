@@ -20,6 +20,10 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 
 ---
 
+## 💻 My Portofolio
+🔹 <a href="https://portofolio-alwi.vercel.app/"><b>My Portofolio</b></a><br/>
+<sub>My personal portofolio.</sub><br/><br/>
+
 ## ⚡ Tech Stack & Tools
 
 ### 🔹 Languages & Frameworks
@@ -51,9 +55,6 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 ## 🚀 Pinned Projects
 
 <p align="left">
-
-🔹 <a href="https://github.com/alwznx/portofolio-alwi"><b>My Portofolio</b></a><br/>
-<sub>My personal portofolio.</sub><br/><br/>
 
 🔹 <a href="https://github.com/alwznx/EduReflect"><b>EduReflect</b></a><br/>
 <sub>Learning behavior analytics tool built with JavaScript.</sub><br/><br/>
