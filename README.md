@@ -59,8 +59,8 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 🔹 <a href="https://github.com/alwznx/EduReflect"><b>EduReflect</b></a><br/>
 <sub>Learning behavior analytics tool built with JavaScript.</sub><br/><br/>
 
-🔹 <a href="https://github.com/alwznx/perpustakaan-digital"><b>Perpustakaan Digital</b></a><br/>
-<sub>Simple digital library web app using JavaScript.</sub><br/><br/>
+🔹 <a href="https://github.com/alwznx/Project-PBO-Simple-JOKIGAME-Netbeans.git"><b>JokiGame Netbeans</b></a><br/>
+<sub>Dekstop app using Java.</sub><br/><br/>
 
 🔹 <a href="https://github.com/alwznx/a2-dry.git"><b>Aplikasi Laundry</b></a><br/>
 <sub>A modern, offline-first Laundry POS app built with Flutter & Hive.</sub><br/>
