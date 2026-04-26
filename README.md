@@ -21,7 +21,7 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 ---
 
 ## 💻 My Portofolio
-🔹 <a href="https://portofolio-alwi.vercel.app/"><b>My Portofolio</b></a><br/>
+🔹 <a href="https://alwi-porto.vercel.app/"><b>My Portofolio</b></a><br/>
 <sub>My personal portofolio.</sub><br/><br/>
 
 ## ⚡ Tech Stack & Tools
