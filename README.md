@@ -5,7 +5,7 @@
 <h3 align="center">Information Technology Education Student • Exploring Tech • Website Developer • Mobile App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=22&center=true&vCenter=true&width=600&lines=Information+Technology+Education+Student;Web+Developer+Learner;Always+Exploring+New+Technologies;Future+Fullstack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=22&center=true&vCenter=true&width=600&lines=Information+Technology+Education+Student;Web+Developer;Always+Exploring+New+Technologies;Future+Fullstack+Engineer;Mobile+App+Developer" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwznx&label=Profile%20views&color=0e75b6&style=flat" alt="alwznx" /> </p>
