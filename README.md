@@ -2,7 +2,7 @@
   <img src="https://github.com/alwznx/alwznx/blob/main/github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center">Information Technology Education Student • Exploring Tech • Future Developer</h3>
+<h3 align="center">Information Technology Education Student • Exploring Tech • Website Developer • Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=22&center=true&vCenter=true&width=600&lines=Information+Technology+Education+Student;Web+Developer+Learner;Always+Exploring+New+Technologies;Future+Fullstack+Engineer" />
