@@ -26,11 +26,13 @@ Currently leveling up my skills in **Front-End, Back-End, Mobile Programming, an
 
 <a href="https://alwi-porto.vercel.app/">
 
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00ffff?style=for-the-badge&logo=vercel&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00ffff?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
 </p>
+
+---
 
 ## ⚡ Tech Stack & Tools
 
